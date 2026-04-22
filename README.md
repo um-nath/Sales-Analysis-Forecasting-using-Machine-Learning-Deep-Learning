@@ -94,7 +94,7 @@ This project focuses on end-to-end sales analysis and forecasting across multipl
 ```bash
 ├── Data set_sale forecasting
 ├── Sale_forecasting.ipynb
-├── outputs/
+├── Output_visualization/...
 └── README.md
 ```
 
