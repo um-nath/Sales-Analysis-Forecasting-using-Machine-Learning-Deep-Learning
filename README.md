@@ -141,4 +141,4 @@ This project focuses on end-to-end sales analysis and forecasting across multipl
 ## 👤 Author
 
 **Ujjwal Manikya Nath**
-Data Science | Machine Learning | Computer Vision
+* Data Science | Machine Learning | Computer Vision
